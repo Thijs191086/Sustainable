@@ -1,0 +1,273 @@
+html {
+  scroll-behavior: smooth;
+}
+
+.player {
+	width: 300px;
+	height: 450px;
+}
+#achtergrond {
+    background-image: url("../images/34.png");
+    color: white;
+    font-family: obliqua,sans-serif;
+    font-weight: 10000;
+    font-style: normal;
+}
+
+.jumbotron {
+	height: 1125px;
+	background-size: cover;
+	width: 100%;
+	background-position: center center;
+}
+
+#border {
+	border-color: #71d0f6;
+	border-style: solid;
+	border-width: 50px;
+}
+
+.center {
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size : 9vw;
+}
+
+.center2 {
+    position: absolute;
+    top: 63.5%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 4vw;
+}
+
+.center3 {
+	position: absolute;
+    top: 75%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 2vw;
+}
+.name-logo {
+    height: 213px;
+}
+
+.blue {
+    color: #417c94;
+    font-family: obliqua,sans-serif;
+	font-weight: 700;
+	font-style: normal;
+}
+
+.image {
+	width: 100%;
+}
+
+h1 {
+	font-size: 350%;
+}
+
+.top-left {
+  position: absolute;
+  top: 8px;
+  left: 16px;
+  }
+
+.contains {
+  list-style-type: circle;
+  list-style-position: outside;
+  white-space: normal;
+}
+
+.products {
+    margin-top: 300px;
+    margin-bottom: 250px;
+}
+
+  .imgButton{
+    text-align:center;
+}
+
+.onderkant {
+	margin-bottom: 10px;
+}
+
+.bovenkant {
+	margin-top: 100px;
+}
+
+.footer {
+    font-family: obliqua,sans-serif;
+	font-weight: 700;
+	font-style: normal;
+    font-size: x-large;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.icons {
+    margin-right: 20px;
+    margin-left: 20px;
+    width: 40px;
+}
+
+.photos {
+    text-align: center;
+    font-size: x-large;
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
+.names {
+	margin-top: 5px;
+}
+
+.body-text {
+	font-family: obliqua,sans-serif;
+	font-weight: 400;
+	font-style: normal;
+    text-align: justify;
+	margin-left: 5px;
+	margin-right: 5px;
+}
+
+.align-left {
+	text-align: left
+}
+
+.feed {
+    margin-right: 160px;
+    margin-left: 160px;
+	margin-top: 50px;
+	margin-bottom: 30px;
+}
+
+.contact-title {
+    border: 10px solid #71d0f6;
+    padding-top: 5px;
+    background-color: #71d0f6;
+    border-radius: 20px;
+}
+
+.container2 {
+    position: absolute;
+    margin: 20px;
+    width: auto;
+}
+
+.contact-text {
+	color: #FFFFFF;
+}
+
+.topnav {
+  overflow: hidden;
+}
+
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 2px 10px;
+    text-decoration: none;
+    font-size: xx-large;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+#about {
+}
+
+#shop{
+}
+
+#testimonials{
+}
+
+#contact{
+}
+
+.topnav2 {
+	overflow: hidden;
+}
+
+.topnav2 a {
+  float: left;
+  color: #417c94;
+  text-align: center;
+  padding: 2px 10px;
+  text-decoration: none;
+  font-size: 2vw;
+  margin-top: 25px;
+}
+
+.logo {
+    width: 40px;
+    height: 44px;
+	margin-bottom: 10px;
+	margin-left: 10px;
+}
+
+#myBtn {
+  display: none;
+  position: fixed;
+  bottom: 20px;
+  right: 30px;
+  z-index: 99;
+  font-size: 18px;
+  border: none;
+  outline: none;
+  background-color: #91bcd1;
+  color: white;
+  cursor: pointer;
+  padding: 15px;
+  border-radius: 4px;
+  margin-right: 60px;
+  width: 80px;
+}
+
+#myBtn:hover {
+  background-color: burlywood;
+}
+
+.img-fluid {
+	max-width: 100%; 
+	height: auto;
+	border-radius: 20px;
+}
+
+.bold {
+	font-family: obliqua,sans-serif;
+	font-weight: 700;
+}
+
+.justification {
+	margin-top: 100px;
+	margin-bottom: 100px;	
+}
+
+.scheme {
+	max-width: 500px;
+	margin-bottom: px;
+}
+
+.offers {
+	margin-bottom: 150px;
+}
+
+.cart {
+    top: 400px;	
+}
+
+.testimonial {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+    border-radius: 20px;
+}
